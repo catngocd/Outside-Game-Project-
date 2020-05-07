@@ -9,4 +9,8 @@ public class Messenger : MonoBehaviour
     public void OpenMessenger() {
         SceneManager.LoadScene(sceneName:"MessengerScene");
     }
+
+    public void GoDadMessage() {
+        SceneManager.LoadScene(sceneName:"DadChatScene");     
+    }
 }
