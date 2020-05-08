@@ -58,6 +58,11 @@
      <Compile Include="Assets\Scripts\BackToMessenger.cs" />
      <Compile Include="Assets\Scripts\Background.cs" />
      <Compile Include="Assets\Scripts\CloseMessengerButton.cs" />
+     <Compile Include="Assets\Scripts\Countdown.cs" />
+     <Compile Include="Assets\Scripts\DadChat.cs" />
+     <Compile Include="Assets\Scripts\DontDestroy.cs" />
+     <Compile Include="Assets\Scripts\Globals.cs" />
+     <Compile Include="Assets\Scripts\HealthBar.cs" />
      <Compile Include="Assets\Scripts\KeepScrollingOpener.cs" />
      <Compile Include="Assets\Scripts\LevelLoader.cs" />
      <Compile Include="Assets\Scripts\Messenger.cs" />

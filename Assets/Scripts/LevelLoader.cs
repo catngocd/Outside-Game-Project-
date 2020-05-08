@@ -8,6 +8,7 @@ public class LevelLoader : MonoBehaviour
     public Animator transition;
 
     public float transitionTime = 1f;
+    public static string test = "hi";
 
     // Update is called once per frame
     void Update()

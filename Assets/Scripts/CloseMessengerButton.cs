@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class CloseMessengerButton : MonoBehaviour
 {
     public void ChangeScene() {
+        // Globals.currentHealth = 10;
         SceneManager.LoadScene(sceneName:"MainScene");
     }
 }
